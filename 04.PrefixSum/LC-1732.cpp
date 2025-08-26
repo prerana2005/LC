@@ -1,3 +1,4 @@
+//highest altitude gain
 class Solution {
 public:
     int largestAltitude(vector<int>& gain) {
